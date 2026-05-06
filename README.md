@@ -21,7 +21,7 @@ The original dataset contains information about 999 movies including:
 
 Project Steps:
 1. Data ingestion
-Loaded raw csv file to Databricks and converted data into delta format
+- Loaded raw csv file to Databricks and converted data into delta format
 
 2.Data cleaning and transformation
 - Removed spaces from genre column
